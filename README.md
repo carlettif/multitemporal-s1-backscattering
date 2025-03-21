@@ -1,8 +1,8 @@
 # multitemporal-s1-backscattering
 
-- This repository is associated to the following preprint: INSERT-DOI-HERE. 
+- This repository is associated to the following article preprint: [https://doi.org/10.5194/egusphere-2025-974](https://doi.org/10.5194/egusphere-2025-974). 
 
-- This code enables the execution of the SMRT simulations and the reproduction of Figure 9 of the paper, where the simulations results are presented. The model setup is described in detail in Section 3.2 of the paper. The simulations are based on the high-resolution field measurements available on EnviDat (INSERT_DOI_HERE), which the user has to provide. Additionally, the chosen snowpack layering is provided in the *./data* folder.
+  - This code enables the execution of the SMRT simulations and the reproduction of Figure 9 of the paper, where the simulations results are presented. The model setup is described in detail in Section 3.2 of the paper. The simulations are based on the high-resolution field measurements available on EnviDat [https://doi.org/10.16904/envidat.574](https://doi.org/10.16904/envidat.574), which the user has to provide. Additionally, the chosen snowpack layering is provided in the *./data* folder.
 
 - The other plots presented in the paper are derived from input variations using the same simulation setup of Figure 9.
 
