@@ -9,7 +9,7 @@
 ## Requirements
 - The required Python libraries to run the notebook are listed in *./requirements.txt*.
 
-## How to use the notebook
+## How to run the notebook
 - In a terminal, run the following sequence:
 1. `conda create --name <venv> --file ./requirements.txt`
 2. `conda activate <venv>`
